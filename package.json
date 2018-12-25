@@ -1,0 +1,26 @@
+{
+  "name": "golden_eagle_spam",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Nedal",
+  "contributors": [],
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js                |||": "11.4.2   |||",
+    "random-words": "^1.1.0",
+    "random-words              ||": "1.1.0    ||"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js node bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "description": ""
+}
