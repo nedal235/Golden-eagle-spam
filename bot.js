@@ -13,4 +13,4 @@ bot.on("ready", () => {
  
     },0.0001);
 });
-bot.login(proccess.env.BOT_TOKEN);
+bot.login(process.env.BOT_TOKEN);
